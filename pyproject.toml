@@ -22,4 +22,4 @@ dependencies = []
 "Homepage" = "https://github.com/fnHoj/sierpinski/"
 
 [project.scripts]
-daily-joke = "src.main:run"
+sierpinski = "sierpinski.main:run"
