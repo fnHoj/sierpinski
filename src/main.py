@@ -1,4 +1,3 @@
-
 def sierpinski(layers: int) -> str:
     """
     Generates a Sierpinski triangle with a given number of layers as a string.
