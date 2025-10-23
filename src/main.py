@@ -35,5 +35,8 @@ def print_sierpinski(layers: int) -> None:
     """
     print(sierpinski(layers), end="")
 
-if __name__ == "__main__":
+def run() -> None:
     print_sierpinski(6)
+
+if __name__ == "__main__":
+    run()
